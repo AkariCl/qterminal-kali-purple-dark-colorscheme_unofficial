@@ -9,10 +9,10 @@ File 2: kari-Kali-Puprle-Dark_green.colorscheme
 The kari-Kali-Purple-Dark.colorscheme will change colors more to Kali Purple's over all appearence, kari-Kali-Puprle-Dark_green.colorscheme will keep the green-bluish accents as shown in the screenshots below.
 
 kari-Kali-Purple-Dark.colorscheme
-![purple1](./Screenshots/purple1.png)
+![purple1](./purple1.png)
 
 kari-Kali-Puprle-Dark_green.colorscheme
-![purple2](./Screenshots/purple2.png)
+![purple2](./purple2.png)
 
 
 Feel free to modify. I did this because Kali Linux doesnt have a Kali-Purple qterminal color scheme (yet) while I liked to use that. Thats why I made one and share it in case someone wants to use it too.
